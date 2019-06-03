@@ -5,7 +5,7 @@ This work in made in collboration with the Lab. of Experimental Cardiology, Depa
 ### Authors
 - Alessandro Montemurro, DTU Compute
 
-###Description
+### Description
 This work focuses on clustering algorithm for electrocardiogram time series. 
 
 A suitable similarity measure, capable of explaining the similarity between time series, has to be defined. 
